@@ -7,10 +7,16 @@ The goal of this game is to to move the player all the way up to the water with 
 
 Controls:
 
-in “menu” Left Arrow and Right Arrow: changes character
-Enter: starts game 
-Up Arrow and W : moves up a tile
-Down Arrow and S : moves down a tile
-Left Arrow and A : moves left a tile
-Right Arrow and D: moves right a tile
-+ or = : DEBUG drawing mode
++ in “menu” Left Arrow and Right Arrow: changes character
+
++ Enter: starts game 
+
++ Up Arrow and W : moves up a tile
+
++ Down Arrow and S : moves down a tile
+
++ Left Arrow and A : moves left a tile
+
++ Right Arrow and D: moves right a tile
+
++ = : DEBUG drawing mode
